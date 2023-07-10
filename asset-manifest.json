@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2787170b.chunk.css",
+    "main.js": "/static/js/main.18eab718.chunk.js",
+    "main.js.map": "/static/js/main.18eab718.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f719501c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f719501c.js.map",
+    "static/css/2.930a5b2e.chunk.css": "/static/css/2.930a5b2e.chunk.css",
+    "static/js/2.4cde7f7d.chunk.js": "/static/js/2.4cde7f7d.chunk.js",
+    "static/js/2.4cde7f7d.chunk.js.map": "/static/js/2.4cde7f7d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.95127dc4c496d143f3c256fc9391f90a.js": "/precache-manifest.95127dc4c496d143f3c256fc9391f90a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.930a5b2e.chunk.css.map": "/static/css/2.930a5b2e.chunk.css.map",
+    "static/css/main.2787170b.chunk.css.map": "/static/css/main.2787170b.chunk.css.map",
+    "static/js/2.4cde7f7d.chunk.js.LICENSE.txt": "/static/js/2.4cde7f7d.chunk.js.LICENSE.txt",
+    "static/media/LumniM.mp4": "/static/media/LumniM.7574447d.mp4",
+    "static/media/fraudes.png": "/static/media/fraudes.9d76aaa0.png",
+    "static/media/images.jpg": "/static/media/images.518bb997.jpg",
+    "static/media/java.png": "/static/media/java.a793b79a.png",
+    "static/media/manutencao.png": "/static/media/manutencao.6b0790f1.png",
+    "static/media/pc3.jpg": "/static/media/pc3.a3bbc65c.jpg",
+    "static/media/perfilM.mp4": "/static/media/perfilM.a54db5e3.mp4",
+    "static/media/portfolio.png": "/static/media/portfolio.45c326d2.png",
+    "static/media/sonoAPPM.mp4": "/static/media/sonoAPPM.5aeab710.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f719501c.js",
+    "static/css/2.930a5b2e.chunk.css",
+    "static/js/2.4cde7f7d.chunk.js",
+    "static/css/main.2787170b.chunk.css",
+    "static/js/main.18eab718.chunk.js"
+  ]
+}
